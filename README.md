@@ -1,11 +1,10 @@
 ## Thiago Souza Desenvolvedor Mobile & Web
-Analista Desenvolvedor na HF Soluções, desenvolvo aplicações mobile com Android e bancos de dados SQLite. </br>
+Analista Desenvolvedor na HF Soluções e freelancer, desenvolvo aplicações mobile com Android e bancos de dados SQLite. </br>
 Atualmente trabalhando também com a Stack JavaScript ->> ReactJS, React Native e NodeJS.</br>
 Sempre em busca de aprender coisas novas!
 
-
 ![Thiago Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosouzasi&show_icons=true&theme=radical&count_private=true&hide=contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosouzasi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosouzasi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h2>Principais Tecnologias & Skills</h2>
@@ -37,6 +36,9 @@ Sempre em busca de aprender coisas novas!
     </a>
     <a href="mailto:thiagosouzasi32@gmail.com" target="_blank">
        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=5588993360370&text=WatsApp%20Thiago%20Souza" target="_blank">
+       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
     </a>
 </div>
 
