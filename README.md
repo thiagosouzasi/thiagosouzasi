@@ -1,5 +1,5 @@
 ## Thiago Souza Desenvolvedor Mobile & Web
-Analista Desenvolvedor na HF Soluções e freelancer, desenvolvo aplicações mobile com Android e bancos de dados SQLite. </br>
+Analista Desenvolvedor na HF Soluções / Freelancer, desenvolvo aplicações mobile com Android e bancos de dados SQLite. </br>
 Atualmente trabalhando também com a Stack JavaScript ->> ReactJS, React Native e NodeJS.</br>
 Sempre em busca de aprender coisas novas!
 
@@ -19,6 +19,12 @@ Sempre em busca de aprender coisas novas!
   <img align="center" alt="figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
    <img align="center" alt="figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+</div>
+<h2>Bancos de Dados</h2>
+<div>
+  <img align="center" alt="SQLite" height="40" width="40" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">  
+  <img align="center" alt="SQL Server" height="40" width="40" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  
 </div>
 <h2>Redes Sociais & Contato</h2>
 <div> 
