@@ -4,7 +4,7 @@ Atualmente trabalhando também com a Stack JavaScript ->> ReactJS, React Native 
 Sempre em busca de aprender coisas novas!
 
 ![Thiago Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosouzasi&show_icons=true&theme=radical&count_private=true&hide=contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosouzasi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosouzasi&theme=radical&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h2>Principais Tecnologias & Skills</h2>
