@@ -24,7 +24,7 @@ Senior Software Engineer at Aggrandize - JAVA Spring BOOT,Java Android,  React, 
  
  Front
 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,firebase)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,firebase,styledcomponents	)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=figma,nextjs,ts,tailwind,materialui,androidstudio)](https://skillicons.dev)
 
  Back
