@@ -1,4 +1,4 @@
-## Thiago Souza Desenvolvedor Mobile & Web
+## Thiago Souza Senior Software Engineer
 Senior Software Engineer at Aggrandize - Java Spring boot,Java Android,  React, React-Native, NodeJS NextJS, NestJS
 
 ![Thiago Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosouzasi&show_icons=true&theme=radical&count_private=true&hide=contribs)
