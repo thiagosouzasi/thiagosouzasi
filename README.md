@@ -5,7 +5,8 @@ Senior Software Engineer at Aggrandize - JAVA Spring BOOT,Java Android,  React, 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosouzasi&theme=radical&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h2>Principais Tecnologias & Skills</h2>
+
+<!-- <h2>Principais Tecnologias & Skills</h2>
 <div>
   <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -16,13 +17,24 @@ Senior Software Engineer at Aggrandize - JAVA Spring BOOT,Java Android,  React, 
   <img align="center" alt="figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-   <img align="center" alt="figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-   <img align="center" alt="TypeScript" height="40" width="80" src="	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-   <img align="center" alt="Git" height="40" width="80" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-   <img align="center" alt="Java" height="40" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-   <img align="center" alt="Java" height="40" width="80" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-   <img align="center" alt="Spring" height="40" width="80" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-</div>
+   <img align="center" alt="figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">     
+</div> -->
+
+ ## Principais Tecnologias e Skills
+ 
+ Front
+
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,firebase)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=figma,nextjs,ts,tailwind,materialui,androidstudio)](https://skillicons.dev)
+
+ Back
+
+ [![My Skills](https://skillicons.dev/icons?i=java,nestjs,prisma,nodejs&theme=light)](https://skillicons.dev)
+
+Outras Tecnologias
+
+ [![My Skills](https://skillicons.dev/icons?i=aws,gitlab,git,github,docker,vscode,idea)](https://skillicons.dev)
+
 <h2>Bancos de Dados</h2>
 <div>
   <img align="center" alt="SQLite"  src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">  
