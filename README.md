@@ -33,7 +33,7 @@ Senior Software Engineer at Aggrandize - JAVA Spring BOOT,Java Android,  React, 
 
 Outras Tecnologias
 
- [![My Skills](https://skillicons.dev/icons?i=aws,gitlab,git,github,docker,vscode,idea)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=aws,gitlab,git,github,docker,vscode,postman,idea)](https://skillicons.dev)
 
 <h2>Bancos de Dados</h2>
 <div>
