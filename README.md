@@ -1,7 +1,5 @@
 ## Thiago Souza Desenvolvedor Mobile & Web
-Analista Desenvolvedor na HF Soluções / Freelancer, desenvolvo aplicações mobile com Android e bancos de dados SQLite. </br>
-Atualmente trabalhando também com a Stack JavaScript ->> ReactJS, React Native e NodeJS.</br>
-Sempre em busca de aprender coisas novas!
+Senior Software Engineer at Aggrandize - JAVA Spring BOOT,Java Android,  React, React-Native, NodeJS NEXTJS, NestJS
 
 ![Thiago Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosouzasi&show_icons=true&theme=radical&count_private=true&hide=contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosouzasi&theme=radical&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
